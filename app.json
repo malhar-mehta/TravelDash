@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "TravelDash",
+    "slug": "traveldash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.traveldash.app"
+    },
+    "android": {
+      "package": "com.traveldash.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f13e8c3b-4644-4226-9c1a-55836335912a"
+      }
+    }
+  }
+}
